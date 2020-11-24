@@ -11,11 +11,11 @@ Atualmente trabalho de forma informal na Agência Intergalática como designer g
 ⌨ Experiências básicas:
 
 Javascript                                                                                                                                                         
-Photoshop
-MS Office
-Python
-Html
-CSS
+Photoshop                                                       
+MS Office                      
+Python                        
+Html                              
+CSS                           
 
 Bora conversar!
 
