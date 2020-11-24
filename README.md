@@ -1,4 +1,5 @@
-Olá gente 👋
+**Olá gente 👋**
+
 Sou um programador iniciante em busca de conhecimento para melhorar minhas habilidades e evoluir em minha carreira, gostaria de conhecer gente nova no ramo da programação, onde posso aprender cada vez mais como ser um bom profissional. 😁
 
 📚---> Atualmente estou cursando Análise e desenvolvimento de sistemas (ADS) na universidade UNINOVE, método de ensino EAD (Ensino a distância).
