@@ -17,6 +17,4 @@ CSS**
 
 Bora conversar!
 
-✉ Gmail: luc.fernando1603@gmail.com
-
 🖼 LinkedIn: https://www.linkedin.com/in/lucas-ferreira-3a08531b7/
